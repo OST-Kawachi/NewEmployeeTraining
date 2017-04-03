@@ -1,2 +1,8 @@
-# NewEmployeeTraining
-新入社員研修
+# NewcomerTraining
+新入社員研修についてのリポジトリです。  
+
+## 受講者の皆さんへ  
+講義の内容はWikiに記載してます。
+
+## 講師の皆さんへ  
+研修開始前にProjectsの事前確認項目について確認してください。  
